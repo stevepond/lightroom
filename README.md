@@ -1,8 +1,11 @@
-<<<<<<< HEAD
-# lightroom
-Demo of React and components
-=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+TLDR; TO install and run.
+1) yarn 
+2) yarn start
+
+3) Navigate to http://localhost:3000 to see the demo.
+
 
 ## Available Scripts
 
@@ -46,4 +49,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
->>>>>>> Initialize project using Create React App
